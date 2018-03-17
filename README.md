@@ -1,4 +1,4 @@
-# HgYizg MRMAD's Repo
+# HgYizg's Repo
 Welcome to my Cydia Repo.
 
 &nbsp;
